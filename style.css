@@ -1,0 +1,22 @@
+.jumbotron{
+  
+}
+.cont{
+    height: 300px;
+    border-radius: 5px;
+}
+
+.image{
+    
+ margin-top: -100px;
+    
+}
+.con:hover{
+    backdrop-filter: blur(2px) ;
+}
+#ig,#facebook,#twitter{
+    color: black;
+}
+.container a{
+    margin: 10px;
+}
